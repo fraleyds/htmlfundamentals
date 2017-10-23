@@ -1,7 +1,7 @@
-* {
+/** {
 	background-color: black;
 	color: white;
-}
+}*/
 .blueBackground {
 	background-color: cornFlowerBlue;
 }
@@ -14,4 +14,25 @@
 .boldOrangeFont {
 	font-weight: bold;
 	color: orange;
+}
+.greenBackground {
+	background-color: green;
+}
+.seventyWidth {
+	width: 70%;
+}
+.redBackground {
+	background-color: red;
+}
+.yellowBackground {
+	background-color: yellow;
+}
+.thirtyWidth {
+	width: 30%;
+}
+.floatLeft {
+	float: left;
+}
+.floatRight {
+	float: right;
 }
