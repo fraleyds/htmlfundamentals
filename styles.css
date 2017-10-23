@@ -6,7 +6,9 @@
 	background-color: cornFlowerBlue;
 }
 .smallBorder {
-	border: 2px solid;
+	border: 1px solid;
+	padding: 10px;
+	width: 80%;
 }
 .largeRedBorder {
 	border: 10px solid red;
@@ -35,4 +37,10 @@
 }
 .floatRight {
 	float: right;
+}
+.cutText {
+	background: #FFF;
+	margin-top: -20px;
+	padding:3px;
+	width:9em;
 }
